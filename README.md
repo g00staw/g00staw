@@ -8,6 +8,6 @@ currently  idk
 
 ## Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,py,c,js,html,css,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,laravel,spring,react,py,c,js,html,css,tailwind,git,github)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="MySkills" width="48" height="48">
